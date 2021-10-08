@@ -7,8 +7,8 @@
 #define WIFI_SSID "virus"
 #define WIFI_PASSWORD "11111111"
 
-#define FIREBASE_HOST "tranquil-rite-321405-default-rtdb.firebaseio.com"
-#define FIREBASE_KEY "oJxQ6DVfBcXLOwknyzXr8Ku91nJcMIw8KIN8dvEz"
+#define FIREBASE_HOST "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define FIREBASE_KEY "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 FirebaseData firebaseData;
 

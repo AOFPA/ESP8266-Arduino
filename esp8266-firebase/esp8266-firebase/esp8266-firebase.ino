@@ -4,8 +4,8 @@
 #define WIFI_SSID "virus"
 #define WIFI_PASSWORD "11111111"
 
-#define FIREBASE_HOST "tranquil-rite-321405-default-rtdb.firebaseio.com"
-#define FIREBASE_KEY "oJxQ6DVfBcXLOwknyzXr8Ku91nJcMIw8KIN8dvEz"
+#define FIREBASE_HOST "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define FIREBASE_KEY "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 #define TRIGGER_PIN  D1
 #define ECHO_PIN     D2
